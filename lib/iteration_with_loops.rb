@@ -6,5 +6,5 @@ count = 0
 while count < array.of.arrays.length do 
   inner_count = 0
   while inner_count < array.of.arrays[count].length do
-    array
+    if array.of.arrays[count]
 end
