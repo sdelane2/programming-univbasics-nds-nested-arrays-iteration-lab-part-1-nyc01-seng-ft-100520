@@ -10,5 +10,7 @@ while count < array.of.arrays.length do
       TRUE
     else
       FALSE
-    
+    inner_count += 1
+  end
+  
 end
