@@ -12,5 +12,5 @@ while count < array.of.arrays.length do
       FALSE
     inner_count += 1
   end
-  
+  count += 1 
 end
