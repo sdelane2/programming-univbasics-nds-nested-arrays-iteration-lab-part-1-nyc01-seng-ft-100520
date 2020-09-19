@@ -5,5 +5,6 @@ def find_even_values(src)
 count = 0
 while count < array.of.arrays.length do 
   inner_count = 0
-  while inner_count < array.of.arrays[count].length
+  while inner_count < array.of.arrays[count].length do
+    array
 end
